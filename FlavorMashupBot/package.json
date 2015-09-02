@@ -1,0 +1,11 @@
+{
+  "name": "FlavorMashupBot",
+  "version": "1.0.0",
+  "description": "Twitter Bot that posts food suggestions for the bored and the adventurous",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dakota Ling",
+  "license": "MIT"
+}
